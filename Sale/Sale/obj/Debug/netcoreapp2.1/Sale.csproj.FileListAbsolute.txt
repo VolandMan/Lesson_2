@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\bin\Debug\netcoreapp2.1\Sale.deps.json
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\bin\Debug\netcoreapp2.1\Sale.runtimeconfig.json
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\bin\Debug\netcoreapp2.1\Sale.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\bin\Debug\netcoreapp2.1\Sale.dll
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\bin\Debug\netcoreapp2.1\Sale.pdb
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.dll
+C:\Users\User\Desktop\Lesson_2\Sale\Sale\Sale\obj\Debug\netcoreapp2.1\Sale.pdb

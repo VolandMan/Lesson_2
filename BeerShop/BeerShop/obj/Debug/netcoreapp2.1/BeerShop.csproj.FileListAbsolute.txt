@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\bin\Debug\netcoreapp2.1\BeerShop.deps.json
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\bin\Debug\netcoreapp2.1\BeerShop.runtimeconfig.json
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\bin\Debug\netcoreapp2.1\BeerShop.runtimeconfig.dev.json
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\bin\Debug\netcoreapp2.1\BeerShop.dll
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\bin\Debug\netcoreapp2.1\BeerShop.pdb
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.AssemblyInfo.cs
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.dll
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.pdb
+C:\Users\User\Desktop\BeerShop\BeerShop\BeerShop\obj\Debug\netcoreapp2.1\BeerShop.csprojAssemblyReference.cache
